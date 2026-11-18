@@ -7,3 +7,5 @@ data_v1.csv, data_v2.csv, data_v3.csv
 Выполнено 60 %
 ## История версий данных
 v1.0, v1.1, v2.0
+## Проект
+https://github.com/users/dkoshelevvv/projects/1
